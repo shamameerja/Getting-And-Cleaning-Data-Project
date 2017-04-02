@@ -22,7 +22,7 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
 
 	Subject identifier, integer, ranges from 1 to 30.
 
-- `activity`
+- `activityLabel`
 
 	Activity identifier, string with 6 possible values: 
 	- `WALKING`: subject was walking
